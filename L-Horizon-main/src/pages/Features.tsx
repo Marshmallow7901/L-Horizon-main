@@ -8,6 +8,7 @@ import React from "react";
  * This page summarizes the features, design philosophy, and technical highlights
  * of the L-Horizon project for portfolio and documentation purposes.
  */
+export default function FeaturesPage() {
   return (
     <motion.main
       initial={{ opacity: 0, y: 40 }}
